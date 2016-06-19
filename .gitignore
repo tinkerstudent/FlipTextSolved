@@ -1,0 +1,5 @@
+/bin/
+.DS_Store
+org.eclipse.jdt.core.prefs
+.project
+.classpath
